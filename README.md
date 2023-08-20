@@ -4,10 +4,10 @@ Poor air quality is a concern in many urban populations, and the objective of th
 
 Other aspects of the project include: 
   - Statistical tests
-    - Determine whether or not the trends were statistically significant between years
-    - Determine whether or not contaminant concentrations were significant across boroughs
-    - Determine whether or not there was a correlation between contaminant concentration and seasonal changes
+    - Determining whether or not the trends are statistically significant between years
+    - Determining whether or not contaminant concentrations are significant across boroughs
+    - Determine whether or not there is a correlation between contaminant concentration and seasonal changes
    
   - Spatial Analysis
-    - Divide boroughs based on latitude and longitude
-    - Visualize contamination concentrations using geoscatter   
+    - Dividing boroughs based on latitude and longitude
+    - Visualizing contamination concentrations using geoscatter   
